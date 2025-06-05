@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hey I'm Vignesh 👋
 
-<!--
-**vigneshkriishna/vigneshkriishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Blockchain Engineering student with a builder mindset  
+🧠 I create practical tools powered by AI, Web3, and data  
+🔥 Focused on health-tech, personal optimization, and next-gen systems  
+📍 Bengaluru, India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 What I Work With
+- **Core:** Python, TypeScript, JavaScript  
+- **AI + Data:** LangChain, Streamlit, pandas, prompt engineering  
+- **Blockchain:** Web3.py, Solidity , IPFS, thirdweb, smart contracts  
+- **Infra & Dev:** Firebase, GitHub Actions, PDF generation, email automation  
+
+---
+
+### 🚧 Building Now
+- **CIBIL Score Predictor** – ML-powered credit score analyzer  
+- **🧠 MindTrack AI** – Mental health + self-improvement journaling tool  
+- **💡 Web3 Utility Stack** – NFT gating, wallet-auth access, tokenized rewards
+
+---
+
+### ✨ Past Projects
+- **🧬 CaliCore** – Calisthenics + Gut Health AI system (*Streamlit-based*)  
+- **Dietify AI** – Custom diet generator with PDF & email output  
+- **Blockchain Medicare** – Smart contract-based medical record system  
+
+---
+
+### 🌐 Let’s Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/vigneshkriishna)  
+- 📫 vigneshpop9738@gmail.com  
+
+---
+
+> ⚡ *“Code. Create. Conquer..”*
