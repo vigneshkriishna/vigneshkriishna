@@ -14,6 +14,5 @@
 
 ---
 
-<pre>
+
 > ⚡ “Code. Create. Conquer..”
-</pre>
