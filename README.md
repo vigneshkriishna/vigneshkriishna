@@ -16,4 +16,4 @@
 ---
 
 
-> ⚡ “Code. Create. Conquer..”
+> ⚡ “ Invent , Execute , Elevate...”
