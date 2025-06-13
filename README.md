@@ -1,7 +1,8 @@
 ## 👋 Hey I'm Vignesh
 
-🎓 CSE (Blockchain) Engineering student with a builder mindset  
-🧠 I create practical tools powered by AI, Web3, and data  
+🎓 CSE (Blockchain) undergrad with a builder’s mindset  
+🧠 Building practical tools with AI, Web3, and data  
+🌐 Web & mobile developer | 🚀 Focused on real-world impact  
 📍 Bengaluru, India
 
 ---
